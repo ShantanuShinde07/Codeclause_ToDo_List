@@ -4,7 +4,8 @@
 # Task 1 : To-Do list
 
 
-Simple todo list web app to save and manage todos, and save them to the local storage The web app has a beatifull UI design that is make it dun adding todos
+Simple To-Do List web app to save and manage To-Do's and save them to the local storage.
+The web app has a beatifull UI design that is make it dun adding To-Do's
 
 # Live Project Link : 
   https://shantanushinde07.github.io/Codeclause_ToDo_List/Totolist.html
